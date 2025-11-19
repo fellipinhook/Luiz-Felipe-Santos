@@ -1,0 +1,32 @@
+{
+  "name": "omnichannel-clinica",
+  "version": "1.0.0",
+  "description": "Sistema Omnichannel centralizado para clínica médica, unificando canais de atendimento e fornecendo painéis de gestão para atendentes e gerentes",
+  "main": "index.js",
+  "scripts": {
+    "start": "python3 -m http.server 8080",
+    "dev": "python3 -m http.server 8080",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "omnichannel",
+    "clínica",
+    "atendimento",
+    "whatsapp",
+    "email",
+    "instagram",
+    "facebook",
+    "healthcare"
+  ],
+  "author": "Manus AI",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/seu-usuario/omnichannel-clinica.git"
+  },
+  "bugs": {
+    "url": "https://github.com/seu-usuario/omnichannel-clinica/issues"
+  },
+  "homepage": "https://github.com/seu-usuario/omnichannel-clinica#readme",
+  "devDependencies": {}
+}
