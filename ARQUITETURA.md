@@ -363,6 +363,3 @@ APIManager.criarUsuario()      // Simula criação de usuário
 Esta arquitetura fornece uma base sólida para o Sistema Omnichannel. É modular, escalável e fácil de manter. Com as integrações e melhorias futuras sugeridas, o sistema pode evoluir para uma solução robusta de nível empresarial.
 
 ---
-
-**Versão**: 1.0.0
-**Última Atualização**: 18 de Novembro de 2025
